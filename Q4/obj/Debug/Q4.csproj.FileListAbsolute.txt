@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Q4\bin\Debug\Q4.exe.config
+C:\Users\Administrator\source\repos\Q4\bin\Debug\Q4.exe
+C:\Users\Administrator\source\repos\Q4\bin\Debug\Q4.pdb
+C:\Users\Administrator\source\repos\Q4\obj\Debug\Q4.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Q4\obj\Debug\Q4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Q4\obj\Debug\Q4.exe
+C:\Users\Administrator\source\repos\Q4\obj\Debug\Q4.pdb
