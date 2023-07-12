@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Q7\bin\Debug\Q7.exe.config
+C:\Users\Administrator\source\repos\Q7\bin\Debug\Q7.exe
+C:\Users\Administrator\source\repos\Q7\bin\Debug\Q7.pdb
+C:\Users\Administrator\source\repos\Q7\obj\Debug\Q7.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Q7\obj\Debug\Q7.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Q7\obj\Debug\Q7.exe
+C:\Users\Administrator\source\repos\Q7\obj\Debug\Q7.pdb
