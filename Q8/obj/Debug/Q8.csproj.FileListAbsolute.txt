@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Q8\bin\Debug\Q8.exe.config
+C:\Users\Administrator\source\repos\Q8\bin\Debug\Q8.exe
+C:\Users\Administrator\source\repos\Q8\bin\Debug\Q8.pdb
+C:\Users\Administrator\source\repos\Q8\obj\Debug\Q8.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Q8\obj\Debug\Q8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Q8\obj\Debug\Q8.exe
+C:\Users\Administrator\source\repos\Q8\obj\Debug\Q8.pdb
