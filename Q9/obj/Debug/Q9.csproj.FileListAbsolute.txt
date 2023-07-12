@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Q9\bin\Debug\Q9.exe.config
+C:\Users\Administrator\source\repos\Q9\bin\Debug\Q9.exe
+C:\Users\Administrator\source\repos\Q9\bin\Debug\Q9.pdb
+C:\Users\Administrator\source\repos\Q9\obj\Debug\Q9.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Q9\obj\Debug\Q9.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Q9\obj\Debug\Q9.exe
+C:\Users\Administrator\source\repos\Q9\obj\Debug\Q9.pdb
