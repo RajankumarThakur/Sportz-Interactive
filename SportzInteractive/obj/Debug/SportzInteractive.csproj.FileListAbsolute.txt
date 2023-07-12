@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\SportzInteractive\bin\Debug\SportzInteractive.exe.config
+C:\Users\Administrator\source\repos\SportzInteractive\bin\Debug\SportzInteractive.exe
+C:\Users\Administrator\source\repos\SportzInteractive\bin\Debug\SportzInteractive.pdb
+C:\Users\Administrator\source\repos\SportzInteractive\obj\Debug\SportzInteractive.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\SportzInteractive\obj\Debug\SportzInteractive.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SportzInteractive\obj\Debug\SportzInteractive.exe
+C:\Users\Administrator\source\repos\SportzInteractive\obj\Debug\SportzInteractive.pdb

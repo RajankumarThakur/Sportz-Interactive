@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\SportzInteractive\bin\Release\SportzInteractive.exe.config
+C:\Users\Administrator\source\repos\SportzInteractive\bin\Release\SportzInteractive.exe
+C:\Users\Administrator\source\repos\SportzInteractive\bin\Release\SportzInteractive.pdb
+C:\Users\Administrator\source\repos\SportzInteractive\obj\Release\SportzInteractive.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SportzInteractive\obj\Release\SportzInteractive.exe
+C:\Users\Administrator\source\repos\SportzInteractive\obj\Release\SportzInteractive.pdb
