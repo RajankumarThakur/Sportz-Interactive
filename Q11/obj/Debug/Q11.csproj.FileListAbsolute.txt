@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Q11\bin\Debug\Q11.exe.config
+C:\Users\Administrator\source\repos\Q11\bin\Debug\Q11.exe
+C:\Users\Administrator\source\repos\Q11\bin\Debug\Q11.pdb
+C:\Users\Administrator\source\repos\Q11\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\Q11\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\Q11\obj\Debug\Q11.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Q11\obj\Debug\Q11.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Q11\obj\Debug\Q11.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Q11\obj\Debug\Q11.exe
+C:\Users\Administrator\source\repos\Q11\obj\Debug\Q11.pdb
