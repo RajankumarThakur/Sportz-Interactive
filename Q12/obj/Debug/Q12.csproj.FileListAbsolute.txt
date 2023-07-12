@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Q12\bin\Debug\Q12.exe.config
+C:\Users\Administrator\source\repos\Q12\bin\Debug\Q12.exe
+C:\Users\Administrator\source\repos\Q12\bin\Debug\Q12.pdb
+C:\Users\Administrator\source\repos\Q12\obj\Debug\Q12.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Q12\obj\Debug\Q12.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Q12\obj\Debug\Q12.exe
+C:\Users\Administrator\source\repos\Q12\obj\Debug\Q12.pdb
